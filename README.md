@@ -1,5 +1,1 @@
-:triangular_flag_on_post: I recently began my career as a software engineer with Decagon. This entire journey began because I've always had a knack for technology. Prior to that, I was deeply engaged in content creation :camera_flash:, often posting informative and interactive videos on YouTube, Instagram, and Tiktok.
-
-I'll always have a special spot for design as a professional Graphic Designer. I'm most productive :bulb: in the space between development and design.
-
-If you like what I'm doing, please consider sponsoring me on GitHub!
+:triangular_flag_on_post: I am a Full stack Developer with experience in developing and deploying web and desktop applications using C#, ASP.NET, React, and Azure. I am a visual storyteller and a fast-budding Nigerian Tech creator with a passion for helping others learn and grow. In addition to programming and content creation, I enjoy public speaking and have given talks on a variety of topics, from technology to personal growth. I'm always looking for new opportunities to learn and share my knowledge.
