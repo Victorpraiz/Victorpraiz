@@ -5,7 +5,7 @@ I'm an agile full-stack software developer with 3+ years of experience creating 
 My experience includes developing complex applications, implementing various APIs and web services, and optimizing application performance.
 In addition to my technical skills, I am a great collaborator with an agile mindset and enjoy working in a team environment. I am always willing to learn and embrace new technologies and methodologies. I am also able to communicate technical concepts effectively to non-technical stakeholders.
 
-I am eager to bring my skills and experience to your team and help drive innovation and success.
+I am eager to bring my skills and experience to any team and help drive innovation and success.
 
 
 ## Skills
@@ -63,8 +63,8 @@ The app has the following features:
 - The app is designed to be easy to use and intuitive. The rich text editor provides users with a variety of formatting options, including bold, italic, underline, and strikethrough.
 - Users can also add images and links to their documents.
 - Users can embed social media videos from Youtube and Facebook.
-
-The app is built with React.js and React-Quill, which makes it fast and responsive. The use of TailwindCSS for styling ensures that the app looks great on all devices.
+- The app is built with React.js and React-Quill, which makes it fast and responsive. The use of TailwindCSS for styling ensures that the app looks great on all devices.
+- Try App Client on Vercel > xedit-fpas-o6pftqyf7-thevictormadu.vercel.app
 
 ## Education
 
