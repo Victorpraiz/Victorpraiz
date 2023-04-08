@@ -7,6 +7,59 @@ In addition to my technical skills, I am a great collaborator with an agile mind
 
 I am eager to bring my skills and experience to any team and help drive innovation and success.
 
+## Technologies
+
+### Stacks
+
+![.Net](https://img.shields.io/badge/.Net-3A33D1?style=for-the-badge&logo=dotnet&logoColor=white)
+![Csharp](https://img.shields.io/badge/Csharp-0099ff?style=for-the-badge&logo=csharp&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-0066ff?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0066cc?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL](https://img.shields.io/badge/MicrosoftSQL-0099ff?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ChakraUI](https://img.shields.io/badge/ChakraUI-0099ff?style=for-the-badge&logo=chakraui&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-0099ff?style=for-the-badge&logo=mobx&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-0099ff?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/MaterialUI-0099ff?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-E34F26?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-F7DF1E?&style=for-the-badge&logo=sass&logoColor=black)
+![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+
+### DEV
+
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS](https://img.shields.io/badge/VISUALSTUDIO-007ACC?&style=for-the-badge&logo=visualstudio&logoColor=white)
+![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) 
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+
+### VERSION CONTROL & PROJECT MANAGEMENT 
+
+![GitHub](https://img.shields.io/badge/GitHub-007ACC?&style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-007ACC?&style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-3A33D1?style=for-the-badge&logo=notion&logoColor=white) 
+![Asana](https://img.shields.io/badge/Asana-3A33D1?style=for-the-badge&logo=asana&logoColor=white)
+![Teams](https://img.shields.io/badge/Teams-1A2C34?style=for-the-badge&logo=microsoftteams&logoColor=F7BA3E)
+![Slack](https://img.shields.io/badge/Slack-%23000000.svg?style=for-the-badge&logo=slack&logoColor=#00C7B7)
+
+
+### INSPIRATION
+
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Stack Exchange](https://img.shields.io/badge/StackExchange-12100E.svg?style=for-the-badge&logo=StackExchange&logoColor=white)
+
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevictormadu&show_icons=true&locale=en&layout=compact" alt="thevictormadu" /></p>
+
 
 ## Skills
 
@@ -66,6 +119,8 @@ The app has the following features:
 - The app is built with React.js and React-Quill, which makes it fast and responsive. The use of TailwindCSS for styling ensures that the app looks great on all devices.
 - Try App Client on Vercel > https://xedit-fpas.vercel.app
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevictormadu&show_icons=true&locale=en" alt="thevictormadu" /></p>
+
 ## Education
 
 ### Enugu State University Of Science And Technology, Enugu— B.Sc, Computer Science
@@ -73,6 +128,10 @@ The app has the following features:
 
 ### Institute Of Management And Technology, Enugu— HND, Physics/Electronics
 - DECEMBER 2009 - DECEMBER 2015
+
+
+
+
 
 
 ## Contact
