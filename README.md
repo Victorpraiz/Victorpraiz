@@ -1,4 +1,4 @@
-# 👨‍💻Hi, I'm The Victor madu
+# 👨‍💻Hi, I'm The Victor Madu
 ![.Net-React](https://img.shields.io/badge/.Net-React-66ccff?style=for-the-badge&logo=csharp&logoColor=white)
 
 I'm an agile full-stack software developer with 3+ years of experience creating innovative solutions for multiplex technology problems with .NET, React and Azure. I'm passionate about building scalable and performant web applications that provide value to users.
