@@ -64,7 +64,7 @@ The app has the following features:
 - Users can also add images and links to their documents.
 - Users can embed social media videos from Youtube and Facebook.
 - The app is built with React.js and React-Quill, which makes it fast and responsive. The use of TailwindCSS for styling ensures that the app looks great on all devices.
-- Try App Client on Vercel > xedit-fpas-o6pftqyf7-thevictormadu.vercel.app
+- Try App Client on Vercel > https://xedit-fpas.vercel.app
 
 ## Education
 
