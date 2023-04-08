@@ -10,7 +10,7 @@ I am eager to bring my skills and experience to any team and help drive innovati
 
 ## Technologies
 
-### Stacks
+### STACK
 
 ![.Net](https://img.shields.io/badge/.Net-3A33D1?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Csharp](https://img.shields.io/badge/Csharp-0099ff?style=for-the-badge&logo=csharp&logoColor=white)
