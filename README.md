@@ -17,14 +17,14 @@ I am eager to bring my skills and experience to any team and help drive innovati
 ![Typescript](https://img.shields.io/badge/Typescript-0066ff?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0066cc?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![SQL](https://img.shields.io/badge/MicrosoftSQL-f3300?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/MicrosoftSQL-ff3300?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![ChakraUI](https://img.shields.io/badge/ChakraUI-33cccc?style=for-the-badge&logo=chakraui&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-ff6600?style=for-the-badge&logo=mobx&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-6600cc?style=for-the-badge&logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MaterialUI-0099ff?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-66ccff?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-ff66cc?&style=for-the-badge&logo=sass&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-ff66cc?&style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS](https://img.shields.io/badge/-css3-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
@@ -32,7 +32,7 @@ I am eager to bring my skills and experience to any team and help drive innovati
 ### DEV
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![VS](https://img.shields.io/badge/VISUALSTUDIO-007ACC?&style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS](https://img.shields.io/badge/VISUALSTUDIO-6600cc?&style=for-the-badge&logo=visualstudio&logoColor=white)
 ![LUCID](https://img.shields.io/badge/LUCID_ERD-ff6600?&style=for-the-badge&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) 
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
@@ -44,13 +44,13 @@ I am eager to bring my skills and experience to any team and help drive innovati
 
 ### VERSION CONTROL & PROJECT MANAGEMENT 
 
-![SCRUM](https://img.shields.io/badge/Scrum-007ACC?&style=for-the-badge&logo=scrumalliance&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-007ACC?&style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-007ACC?&style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-3A33D1?style=for-the-badge&logo=notion&logoColor=white) 
-![Asana](https://img.shields.io/badge/Asana-3A33D1?style=for-the-badge&logo=asana&logoColor=white)
-![Teams](https://img.shields.io/badge/Teams-1A2C34?style=for-the-badge&logo=microsoftteams&logoColor=F7BA3E)
-![Slack](https://img.shields.io/badge/Slack-%23000000.svg?style=for-the-badge&logo=slack&logoColor=#00C7B7)
+![SCRUM](https://img.shields.io/badge/Scrum-ffcc66?&style=for-the-badge&logo=scrumalliance&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-000000?&style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-003399?&style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
+![Asana](https://img.shields.io/badge/Asana-ff6666?style=for-the-badge&logo=asana&logoColor=white)
+![Teams](https://img.shields.io/badge/Teams-24248f?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-00b359?style=for-the-badge&logo=slack&logoColor=#00C7B7)
 
 
 ### INSPIRATION
@@ -63,19 +63,19 @@ I am eager to bring my skills and experience to any team and help drive innovati
 ### DESIGN & PRESENTATION
 
 ![Figma](https://img.shields.io/badge/Figma-FE7A16?style=for-the-badge&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-%23FF4500.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-12100E?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Indesign](https://img.shields.io/badge/Indesign-12100E.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![Premiere](https://img.shields.io/badge/Premiere-FE7A16?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Aftereffects](https://img.shields.io/badge/After_Effects-%23FF4500.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![XD](https://img.shields.io/badge/XD-12100E?style=for-the-badge&logo=adobexd&logoColor=white)
-![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-12100E.svg?style=for-the-badge&logo=affinityphoto&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-FE7A16?style=for-the-badge&logo=affinitydesigner&logoColor=white)
-![Affinity Publisher](https://img.shields.io/badge/Affinity_Publisher-%23FF4500.svg?style=for-the-badge&logo=affinitypublisher&logoColor=white)
-![Word](https://img.shields.io/badge/Word-12100E?style=for-the-badge&logo=microsoftword&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-12100E.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Access](https://img.shields.io/badge/Access-12100E.svg?style=for-the-badge&logo=microsoftaccess&logoColor=white)
-![Powerpoint](https://img.shields.io/badge/Powerpoint-12100E.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-cc6600?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-002266?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Indesign](https://img.shields.io/badge/Indesign-ff4d88?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Premiere](https://img.shields.io/badge/Premiere-b300b3?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Aftereffects](https://img.shields.io/badge/After_Effects-d580ff?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![XD](https://img.shields.io/badge/XD-000000?style=for-the-badge&logo=adobexd&logoColor=white)
+![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-bb33ff?style=for-the-badge&logo=affinityphoto&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-0099cc?style=for-the-badge&logo=affinitydesigner&logoColor=white)
+![Affinity Publisher](https://img.shields.io/badge/Affinity_Publisher-e67300?style=for-the-badge&logo=affinitypublisher&logoColor=white)
+![Word](https://img.shields.io/badge/Word-0073e6?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-00802b?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Access](https://img.shields.io/badge/Access-b30000?style=for-the-badge&logo=microsoftaccess&logoColor=white)
+![Powerpoint](https://img.shields.io/badge/Powerpoint-e65c00?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevictormadu&show_icons=true&locale=en&layout=compact" alt="thevictormadu" /></p>
 
@@ -85,14 +85,16 @@ I am eager to bring my skills and experience to any team and help drive innovati
 
 Here are some of the projects that I've worked on:
 
-### VicRawG Game Hub— React, ChakraUI, TypScript
+### VicRawG Game Hub
+![VicRawG GAME HUB— React, ChakraUI, TypScript](https://img.shields.io/badge/VICRAWG%20GAME%20HUB-REACT%2C%20CHAKRA_UI%2C%20TYPESCRIPT-brightgreen?style=social&logo=appveyor)
 
 - A game collections app built with TypeScript, React.js, and Chakra UI.  
 - Implemented dark and light themes for users to choose from and loaded skeletons so that it wouldn't take too long for the app to respond when searching through and displaying their gaming collections.
 - Check out the project here hosted on Vercel https://rawg-game-hub.vercel.app/
 
 
-### Hotel Management System (HotelHive)— ASP.NET Web API, React
+### Hotel Management System (HotelHive)
+![HOTEL MANAGEMENT SYSTEM (HotelHive)— ASP.NET Web API, REACT](https://img.shields.io/badge/HOTEL_MANAGEMENT_SYSTEM-ASP.NET%2C%20WEB_API%2C%20REACT-brightgreen?style=social&logo=appveyor)
 
 - Built with ASP.NET, Entity Framework for data access, Identity for authentication and authorization, and React on the front end.  
 - Managed user engagement analytics strategy, providing first insight into how users order hotel services.
@@ -100,7 +102,8 @@ Here are some of the projects that I've worked on:
 - Implemented clean architecture and repository pattern.
 
 
-### XEdit- React, TailwindCSS
+### XEdit
+![XEDIT](https://img.shields.io/badge/XEDIT-REACT%2C%20CHAKRA_UI%2C%20REACT_QUILL-brightgreen?style=social&logo=appveyor)
 
 This is a text editing app that allows users to create and edit text documents using a rich text editor. The app is built with React.js and React-Quill and styled with TailwindCSS.
 
