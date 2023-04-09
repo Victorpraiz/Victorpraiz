@@ -82,59 +82,6 @@ I am eager to bring my skills and experience to any team and help drive innovati
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevictormadu&show_icons=true&locale=en&layout=compact" alt="thevictormadu" /></p>
 
 
-
-## Projects
-
-Here are some of the projects that I've worked on:
-
-### VicRawG Game Hub
-![VicRawG GAME HUB— React, ChakraUI, TypScript](https://img.shields.io/badge/VICRAWG%20GAME%20HUB-REACT%2C%20CHAKRA_UI%2C%20TYPESCRIPT-brightgreen?style=social&logo=appveyor)
-
-- A game collections app built with TypeScript, React.js, and Chakra UI.  
-- Implemented dark and light themes for users to choose from and loaded skeletons so that it wouldn't take too long for the app to respond when searching through and displaying their gaming collections.
-- Check out the project here hosted on Vercel https://rawg-game-hub.vercel.app/
-
-
-### Hotel Management System (HotelHive)
-![HOTEL MANAGEMENT SYSTEM (HotelHive)— ASP.NET Web API, REACT](https://img.shields.io/badge/HOTEL_MANAGEMENT_SYSTEM-ASP.NET%2C%20WEB_API%2C%20REACT-brightgreen?style=social&logo=appveyor)
-
-- Built with ASP.NET, Entity Framework for data access, Identity for authentication and authorization, and React on the front end.  
-- Managed user engagement analytics strategy, providing first insight into how users order hotel services.
-- Redesigned website flows and navigation menus, resulting in a 34% reduction in the frequency of misdirected customer or user queries and an increase and made previously neglected pages obvious.
-- Implemented clean architecture and repository pattern.
-
-
-### XEdit
-![XEDIT](https://img.shields.io/badge/XEDIT-REACT%2C%20CHAKRA_UI%2C%20REACT_QUILL-brightgreen?style=social&logo=appveyor)
-
-This is a text editing app that allows users to create and edit text documents using a rich text editor. The app is built with React.js and React-Quill and styled with TailwindCSS.
-
-The app has the following features:
-
-- A rich text editor that allows users to create and edit text documents
-- The ability to save and load documents from local storage
-- The ability to export documents as HTML or plain text files
-- The app is designed to be easy to use and intuitive. The rich text editor provides users with a variety of formatting options, including bold, italic, underline, and strikethrough.
-- Users can also add images and links to their documents.
-- Users can embed social media videos from Youtube and Facebook.
-- The app is built with React.js and React-Quill, which makes it fast and responsive. The use of TailwindCSS for styling ensures that the app looks great on all devices.
-- Try App Client on Vercel > https://xedit-fpas.vercel.app
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevictormadu&show_icons=true&locale=en" alt="thevictormadu" /></p>
-
-## Education
-
-### Enugu State University Of Science And Technology, Enugu— B.Sc, Computer Science
-- JANUARY 2016 - DECEMBER 2020
-
-### Institute Of Management And Technology, Enugu— HND, Physics/Electronics
-- DECEMBER 2009 - DECEMBER 2015
-
-
-
-
-
-
 ## Contact
 
 If you're interested in working together or just want to say hi, feel free to reach out to me at [theVictorMadu@gmail.com](mailto:thevictormadu@gmail.com).
