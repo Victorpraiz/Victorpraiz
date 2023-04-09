@@ -33,6 +33,8 @@ I am eager to bring my skills and experience to any team and help drive innovati
 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![VS](https://img.shields.io/badge/VISUALSTUDIO-6600cc?&style=for-the-badge&logo=visualstudio&logoColor=white)
+![Swagger](https://img.shields.io/badge/SWAGGER-59b300?&style=for-the-badge&logo=swagger&logoColor=white)
+![PostMan](https://img.shields.io/badge/POSTMAN-ff6600?&style=for-the-badge&logo=postman&logoColor=white)
 ![LUCID](https://img.shields.io/badge/LUCID_ERD-ff6600?&style=for-the-badge&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) 
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
