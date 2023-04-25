@@ -1,7 +1,7 @@
 # 👨‍💻Hi, I'm The Victor Madu
 ![.Net-React](https://img.shields.io/badge/.Net-React-66ccff?style=for-the-badge&logo=csharp&logoColor=white)
 
-I'm an agile full-stack software developer with experience creating innovative solutions for multiplex technology problems with .NET, React and Azure. I'm passionate about building scalable and performant web applications that provide value to users.
+I'm an agile full-stack software developer with experience creating innovative solutions for multiplex technology problems with .NET, React and Azure on a Microsoft Surface Laptop. I'm passionate about building scalable and performant web applications that provide value to users.
 
 My experience includes developing complex applications, implementing various APIs and web services, and optimizing application performance.
 In addition to my technical skills, I am a great collaborator with an agile mindset and enjoy working in a team environment. I am always willing to learn and embrace new technologies and methodologies. I am also able to communicate technical concepts effectively to non-technical stakeholders.
