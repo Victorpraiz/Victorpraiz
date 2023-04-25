@@ -84,6 +84,6 @@ I am eager to bring my skills and experience to any team and help drive innovati
 
 ## Contact
 
-If you're interested in working together or just want to say hi, feel free to reach out to me at [theVictorMadu@gmail.com](mailto:thevictormadu@gmail.com).
+If you're interested in working together or just want to say hi, feel free to reach out to me at [theVictorMadu@gmail.com](mailto:thevictormadu@gmail.com) 😊
 
-😊
+### May Your Code Live Forever!
